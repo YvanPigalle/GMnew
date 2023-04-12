@@ -15,6 +15,8 @@ git init
 
 
 ## Раздел второй - Списки
+
+
 ### Списки
 Для разметки неупорядоченных списков можно использовать
 или `*`, или `-`, или `+`:
@@ -33,7 +35,7 @@ git init
 2. элемент 2
  1. вложенный
  2. вложенный
-3. элемент 3
+3. элемент 
 4. Donec sit amet nisl. Aliquam semper ipsum sit amet
 velit. Suspendisse id sem consectetuer libero luctus
 adipiscing.
@@ -49,7 +51,7 @@ adipiscing.
 adipisicing elit.
 * Два абзац. Donec sit amet nisl. Aliquam semper ipsum
 sit amet velit. Suspendisse id sem consectetuer libero
-luctus adipiscing.
+luctus adipiscing
 * Три абзац. Ea, quis, alias nobis porro quos laborum
 minus sed fuga odio dolore natus quas cum enim
 necessitatibus magni provident non saepe sequi?
